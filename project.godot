@@ -1,0 +1,9 @@
+[application]
+
+config/name="Exercicio02_Padroes"
+run/main_scene="res://Padroes.tscn"
+
+[display]
+
+window/size/width=1024
+window/size/height=600
